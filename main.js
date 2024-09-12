@@ -1,5 +1,4 @@
 let text = document.getElementById('text');
- let currentFontSize = 16;
 
       
         document.getElementById('Btn1').onclick = function() {
