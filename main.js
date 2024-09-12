@@ -7,7 +7,7 @@ let text = document.getElementById('text');
 
         
         document.getElementById('Btn2').onclick = function() {
-            currentFontSize += 2;
+
             text.style.fontSize = "large";
         }
 
